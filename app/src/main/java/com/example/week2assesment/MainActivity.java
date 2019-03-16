@@ -7,6 +7,7 @@ import android.widget.EditText;
 import android.widget.Toast;
 
 public class MainActivity extends AppCompatActivity {
+
     EditText namein;
     EditText no1;
     EditText no2;
